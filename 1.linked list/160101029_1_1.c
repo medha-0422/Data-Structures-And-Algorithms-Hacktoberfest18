@@ -35,7 +35,7 @@ void move_to_front(char alpha)
 	if(head1==NULL)
 		head1=temp;
 
-	//when first element in list is alpha
+	//when first element in the list is alpha
 	else if(head1->d==alpha)
 	{
 		count1++;		//incrementing comparision

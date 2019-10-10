@@ -156,7 +156,7 @@ void transpose(char alpha)
 }
 
 
-//Function to print both lists
+//Function to print both the lists
 void printlists()
 {
 	struct node *curr=head1;		//temporary pointer which points to current node
